@@ -1,1 +1,10 @@
-#Test Changelog Pixys
+==========
+27.05.2022
+==========
+- Synchronized with the latest sources
+- Security patch from May
+- vanilla build
+- Use kernel version 4.14.278 pizza
+- Use PowerHAL Q as well as other useful commits
+- Add OTA update
+- Add faceunlock
