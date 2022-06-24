@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": "1653602109",
-      "filename": "PixysOS-v5.1.2-VANILLA-lava-UNOFFICIAL-20220527-033841.zip",
-      "id": "f5ba39bdaedcf43bce234fd278aaed7a",
+      "datetime": "1656051134",
+      "filename": "PixysOS-v5.1.3-VANILLA-lava-UNOFFICIAL-20220624-061214.zip",
+      "id": "2e880b8e18834e4856b1bdbc58ff417d",
       "romtype": "UNOFFICIAL",
-      "size": "1005532631",
-      "url": "https://github.com/WolfAURman/pixys_ota_update/releases/download/PixysOS-v5.1.2-VANILLA-lava-UNOFFICIAL-20220527-033841/PixysOS-v5.1.2-VANILLA-lava-UNOFFICIAL-20220527-033841.zip",
-      "version": "5.1.2"
+      "size": "1031575509",
+      "url": "https://github.com/WolfAURman/pixys_ota_update/releases/download/PixysOS-v5.1.3-VANILLA-lava/PixysOS-v5.1.3-VANILLA-lava-UNOFFICIAL-20220624-061214.zip",
+      "version": "5.1.3"
     }
   ]
 }
